@@ -1,1 +1,2 @@
-# bdd_medecine
+# Base de Données
+Projet PL/SQL université de Rouen
